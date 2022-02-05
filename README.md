@@ -2,10 +2,6 @@
 
 ## Table of Contents
 
-[Purpose](Link)
+[Big O Notation](Link)
 
-[Purpose](Link)
-
-[Purpose](Link)
-
-## Big O Notation
+### Big O Notation
