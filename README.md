@@ -1,8 +1,8 @@
 # JavaScript-Algorithms-and-Data-Structures
 
-## Table of Contents
-
 ----------
+
+## Table of Contents
 
 [Big O Notation](Link)
 
