@@ -1,6 +1,6 @@
 # JavaScript-Algorithms-and-Data-Structures
 
-### Table of Contents
+## Table of Contents
 
 [Purpose](https://github.com/hillaryfraley/jobbriefings#purpose)
 
